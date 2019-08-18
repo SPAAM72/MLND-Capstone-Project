@@ -1,0 +1,4 @@
+#Mon Sep 03 19:23:13 IST 2018
+base.0=E\:\\Rahul\\Projects\\AI Projects\\Tensorflow For Poets\\tensorflow-for-poets-2-label\\android\\tfmobile\\gradleBuild\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex

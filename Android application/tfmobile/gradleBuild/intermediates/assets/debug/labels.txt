@@ -1,0 +1,24 @@
+apple healthy
+blueberry healthy
+cherry including sour powdery mildew
+corn maize common rust
+corn maize healthy
+grape black rot
+grape esca black measles
+grape leaf blight isariopsis leaf spot
+orange haunglongbing citrus greening
+peach bacterial spot
+pepper bell healthy
+potato early blight
+potato late blight
+soybean healthy
+squash powdery mildew
+strawberry leaf scorch
+tomato bacterial spot
+tomato early blight
+tomato healthy
+tomato late blight
+tomato septoria leaf spot
+tomato spider mites two spotted spider mite
+tomato target spot
+tomato yellow leaf curl virus
