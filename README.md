@@ -11,3 +11,5 @@ Following are the details of Software environments with version details :
 
 Use Google Colab for smooth experience.
 
+Use this link if you want to download dataset from google drive :
+https://drive.google.com/file/d/1YECb-ryv0_No-ZXV0OtKxVSleb7u1XYn/view?usp=sharing
